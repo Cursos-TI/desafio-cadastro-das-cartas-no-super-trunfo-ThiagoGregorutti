@@ -38,4 +38,4 @@ int main() {
 
     // Cálculos para a Carta 
     densidadePopulacional1 = (float)populacao1 / area1;
-    pibPerCapita1 = (pib1 * 1000000000.0) / populacao1; // Convertendo bilhões para o valor total em reais
+    pibPerCapita1 = (pib1 * 1000000000.0) / populacao1; 
